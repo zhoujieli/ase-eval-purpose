@@ -1,8 +1,8 @@
 dummy_json = {
     "0": {
-        "title": "Knowledge Graph Identification",
+        "title": "Brain Computer Interface Control along Instructed Paths",
         "property": {
-            "background_tokens": "Large-scale information processing systems are able to extract massive collections of interrelated facts"
+            "background_tokens": "'Brain computer interfaces ( BCIs ) are being developed to assist paralyzed people and amputees by translating neural activity into movements of a computer cursor or prosthetic limb . Significance . The use of the instructed path task has the potential to accelerate the development of BCI systems and their clinical translation .'"
         }
     },
     "1": {

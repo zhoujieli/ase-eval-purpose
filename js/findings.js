@@ -344,7 +344,7 @@ function addBackground(item, yId) {
 
 function addFindings(item, yId) {
     var z0 = document.createElement("p");
-    var t0 = document.createTextNode("Purpose");
+    var t0 = document.createTextNode("Findings");
     z0.appendChild(t0);
     z0.style.fontSize = "x-large";
     document.getElementById(yId).appendChild(z0);
